@@ -1,2 +1,2 @@
 # DDM
-Repositótio para as atividades de DDM.
+Repositório para as atividades de DDM.
